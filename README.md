@@ -1,4 +1,4 @@
-# Projet #02 — Segmentation Clients Banque Camerounaise
+# Projet #02 -SLANK— Segmentation Clients Banque Camerounaise
 **ENSP Douala | Département Informatique SDIA | AD2 2025/2026**
 Enseignant : M. FOTSO Valdez
 
@@ -10,11 +10,11 @@ camerounaise pour personnaliser les offres et identifier les clients
 ## Membres du groupe
 | Personne | 
 |----------|
-| [Nergelo] | 
-| [Aelle] | | 
-| [Fortune] |
 | [Sandra] | 
 | [Leandra] | 
+| [Aelle] |
+| [Nerge] | 
+| [Kyriane] | 
 
 ## Pipeline
 EDA → Prétraitement → AFD → Clustering → Classification → Rapport
